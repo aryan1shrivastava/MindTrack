@@ -1,8 +1,8 @@
 # 🧠 MindTrack – Learn, Reflect, Remember  
 ## Product Requirements Document (PRD)  
 ### Version: 1.0  
-**Author:** You + AI Assistant Collaboration  
-**Date:** April 5, 2025  
+**Author:** Aryan Shrivastava
+**Date:** June 8th, 2025  
 
 ---
 
